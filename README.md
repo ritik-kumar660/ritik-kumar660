@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Ritik-kumar
-- 👀 I’m interested in ...Creating and managing responsive Website
-- 🌱 I’m currently doing B.tech (CSE) From Lovely Professional University
-- 📫Contact:-9263583729
-  
-   <!---
-ritik-kumar660/ritik-kumar660 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi there 👋 I'm Ritik Kumar
+
+- 💻 I’m interested in creating and managing responsive and user-friendly websites
+
+- 🌱 Currently pursuing B.Tech in Computer Science Engineering (CSE) from Lovely Professional University
+
+- ✨ Always learning new technologies to improve my development skills
+
+- 📫 Contact: 9263583729
+
+- 😄 Pronouns: He/Him
